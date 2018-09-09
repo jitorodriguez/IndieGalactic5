@@ -6,6 +6,12 @@ You're on a dying space station, and you have to escape. One problem: no gravity
 
 ---
 
+## Play The Game
+
+[Itch.io link](https://tenacious-teal.itch.io/catastrophy)
+
+---
+
 ## How to Play:
 
 Number keys 1, 2, 3 select cat types to throw.</br></br>
